@@ -1,0 +1,1 @@
+print(f'Seu nome é {input("Digite seu nome: ")}')
